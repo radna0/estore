@@ -1,0 +1,11 @@
+.product_details_container{
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    background-color:blanchedalmond
+}
+
+.product_details_display{
+    width: 500px;
+    margin-right: 10rem;
+}

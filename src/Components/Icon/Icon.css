@@ -1,0 +1,16 @@
+
+
+.purchase_cart_title_product_box_icon{
+    height: 20px;
+    padding: 0.4rem;
+    background-color: red;
+    color: white;
+    transition: all 0.2s ease;
+    text-align: center;
+}
+
+
+.purchase_cart_title_product_box_icon:hover{
+    background-color: rgb(120, 255, 120);
+    color: black;
+}

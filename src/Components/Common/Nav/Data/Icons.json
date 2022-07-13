@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "icon": "fa-solid fa-heart",
+        "to": "/favourite"
+    },  
+    {
+        "id": 2,
+        "icon": "fa-solid fa-cart-shopping",
+        "to": "/purchase"
+    }
+]
